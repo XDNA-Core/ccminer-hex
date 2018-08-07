@@ -15,6 +15,7 @@ depcomp
 missing
 install-sh
 stamp-h1
+ccminer-config.h*
 compile
 config.log
 config.status
